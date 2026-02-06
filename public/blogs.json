@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover_pic": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=1200&auto=format&fit=crop",
+    "title": "Getting Started with React",
+    "author": "John Doe",
+    "author_img": "https://images.unsplash.com/photo-1502685104226-ee32379fefbe?w=200&auto=format&fit=crop",
+    "posted_date": "2026-02-05",
+    "reading_time": 7,
+    "hashtag": ["#react", "#javascript", "#frontend"]
+  },
+  {
+    "id": 2,
+    "cover_pic": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&auto=format&fit=crop",
+    "title": "Mastering Tailwind CSS",
+    "author": "Sarah Smith",
+    "author_img": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=200&auto=format&fit=crop",
+    "posted_date": "2026-02-03",
+    "reading_time": 5,
+    "hashtag": ["#tailwind", "#css", "#webdesign"]
+  },
+  {
+    "id": 3,
+    "cover_pic": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?w=1200&auto=format&fit=crop",
+    "title": "Understanding JavaScript Closures",
+    "author": "Michael Lee",
+    "author_img": "https://images.unsplash.com/photo-1527980965255-d3b416303d12?w=200&auto=format&fit=crop",
+    "posted_date": "2026-02-01",
+    "reading_time": 8,
+    "hashtag": ["#javascript", "#coding", "#programming"]
+  },
+  {
+    "id": 4,
+    "cover_pic": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200&auto=format&fit=crop",
+    "title": "Modern Web Development Workflow",
+    "author": "Emily Carter",
+    "author_img": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=200&auto=format&fit=crop",
+    "posted_date": "2026-01-29",
+    "reading_time": 6,
+    "hashtag": ["#webdev", "#workflow", "#productivity"]
+  },
+  {
+    "id": 5,
+    "cover_pic": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=1200&auto=format&fit=crop",
+    "title": "How JavaScript Changed the Web",
+    "author": "David Miller",
+    "author_img": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&auto=format&fit=crop",
+    "posted_date": "2026-01-25",
+    "reading_time": 9,
+    "hashtag": ["#javascript", "#web", "#history"]
+  }
+]
