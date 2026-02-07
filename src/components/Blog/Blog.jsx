@@ -11,9 +11,9 @@ const Blog = ({ blog }) => {
     hashtag,
   } = blog;
   return (
-    <div>
+    <div className="mb-20">
       <h2 className="text-4xl">{title}</h2>
-      <img src={cover_pic} alt={`Cover picture of the title${title}`} />
+      <img className="w-full mb-8" src={cover_pic} alt={`Cover picture of the title${title}`} />
 
       <div className="flex justify-between">
         <div className="flex">
